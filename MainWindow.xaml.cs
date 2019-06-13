@@ -24,6 +24,7 @@ namespace WpfApp1
         {
             InitializeComponent();
             //this is test
+            //2 second
         }
     }
 }
